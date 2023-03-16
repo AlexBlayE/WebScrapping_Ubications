@@ -34,4 +34,4 @@ You can execute the main script.
 
 ## Example png graph:
 
-![Png of a scatter graph of catalonia](\Figures\Figure_1.png)
+![Png of a scatter graph of catalonia](/Figures7Figure_1.png)
