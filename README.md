@@ -8,7 +8,7 @@ This program takes the information of the municipalities of Catalonia (Name, Reg
 
 ## How to use
 
-You can execute the main script.
+You can execute the main script and the generated CSV will be saved in the CSV folder.
 
 ### Important facts
 
